@@ -4,11 +4,11 @@ An optimized, fully stable Android build of *Fear & Hunger*, built to eliminate 
 
 ## Screenshots
 
-| Touch Buttons | Layout | Critical Hit Performance |
+| Buttons | Layout | Critical Hit Performance |
 | :---: | :---: | :---: |
 | ![Buttons](screenshots/buttons.jpg) | ![Layout](screenshots/layouts.jpg) | ![Critical Hit Render](screenshots/criticalhit.jpg) |
 
-| Touch Settings & Presets | Main Menu |
+| Settings & Presets | Main Menu |
 | :---: | :---: |
 | ![Settings Menu](screenshots/settings.jpg) | ![Main Menu](screenshots/mainmenu.jpg) |
 

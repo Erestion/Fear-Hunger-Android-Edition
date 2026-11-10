@@ -2,6 +2,16 @@
 
 An optimized, fully stable Android build of *Fear & Hunger*, built to eliminate performance bottlenecks and freeze issues found in existing mobile ports (inspired by [Chokage's Fear-And-Hunger-Android-Application](https://github.com/Chokage/Fear-And-Hunger-Android-Application) project).
 
+## Screenshots
+
+| Touch Buttons | Layout | Critical Hit Performance |
+| :---: | :---: | :---: |
+| ![Buttons](screenshots/buttons.jpg) | ![Layout](screenshots/layouts.jpg) | ![Critical Hit Render](screenshots/criticalhit.jpg) |
+
+| Touch Settings & Presets | Main Menu |
+| :---: | :---: |
+| ![Settings Menu](screenshots/settings.jpg) | ![Main Menu](screenshots/mainmenu.jpg) |
+
 ## Key Improvements
 
 - **Critical Hit Performance Fix:** Resolved the severe 500–1000ms Main Thread freeze on critical hits. Replaced CPU-bound Canvas pixel blending (`setBlendColor`) in `rpg_sprites.js` with GPU-accelerated `tint` and `scale` transformations.
@@ -34,6 +44,7 @@ Simply download and install the preferred APK on your Android device. No additio
 
 ## Support the Creator
 
-This project does not include any copyrighted game assets and is intended strictly for users who already own the game. If you enjoy *Fear & Hunger*, please support the original developer by purchasing it on Steam:
+This project does not include any copyrighted game assets and is intended strictly for users who already own the game. If you enjoy *Fear & Hunger*, please support the original developer by purchasing it on Steam or itch.io:
 
 * **[Fear & Hunger on Steam](https://store.steampowered.com/app/1002300/Fear_Hunger/)**
+- **[itch.io Store Page](https://mirohaver.itch.io/fear-and-hunger)**

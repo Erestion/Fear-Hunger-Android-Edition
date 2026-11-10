@@ -47,4 +47,4 @@ Simply download and install the preferred APK on your Android device. No additio
 This project does not include any copyrighted game assets and is intended strictly for users who already own the game. If you enjoy *Fear & Hunger*, please support the original developer by purchasing it on Steam or itch.io:
 
 * **[Fear & Hunger on Steam](https://store.steampowered.com/app/1002300/Fear_Hunger/)**
-- **[itch.io Store Page](https://mirohaver.itch.io/fear-and-hunger)**
+- **[itch.io Store Page](https://mirohaver.itch.io/fear-hunger)**
